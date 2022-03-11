@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas GifGrid debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn animate__delay-3s"
+  >
+    one piece
+  </h3>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
